@@ -100,6 +100,10 @@ python model_training.py
 streamlit run app.py
 ```
 
+
+https://github.com/user-attachments/assets/7e3e941d-a2ea-448a-9ef0-87e06b3e648d
+
+
 ### 🚀 Future Improvements
 
 * Add NLP analysis on resume text or career statements
