@@ -105,6 +105,6 @@ streamlit run app.py
 * Add NLP analysis on resume text or career statements
 * Collect more data to balance career labels
 * Use ensemble models with better feature selection
-* Deploy via Flask or Streamlit with cloud-based hosting
+
 
 ---
